@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @its-jhaanuj-21
 - 😇 My name is Anuj Jha 
-- 👀 I’m interested in coding and singing
-- 🌱 I’m currently learning 
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C++, Java, Python and Data Science.
 - 👨‍🎓 BCA Student
 
 
