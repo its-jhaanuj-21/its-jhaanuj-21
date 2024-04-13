@@ -1,3 +1,5 @@
+<p><img alt="coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2F64.media.tumblr.com%2F3ebef054c877d03c507aa8c40149908b%2F6ea0a0e867ebf441-0d%2Fs1280x1920%2F515b1f92b9830672a913d4f32c3f233b08bf3643.gif&tbnid=WH0XGpFRNpzpqM&vet=1&imgrefurl=https%3A%2F%2Fwww.tumblr.com%2F1041uuu%2F741427168992755712%2Froomday-%25E9%2583%25A8%25E5%25B1%258B%25E6%2598%25BC&docid=QuXIOglCnRcfiM&w=1100&h=488&itg=1&hl=en-GB&source=sh%2Fx%2Fim%2Fm1%2F4&kgs=c571e5c59c02c3cb&shem=abme%2Ctrie"></p>
+
 <h1 align="center">Hi 👋, I'm Anuj Jha</h1>
 <h3 align="center">A passionate Learner from INDIA</h3>
 
