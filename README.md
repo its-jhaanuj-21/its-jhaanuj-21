@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/itsjhaanuj21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsjhaanuj21" height="30" width="40" /></a>
 <a href="https://instagram.com/its_jhaanuj_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_jhaanuj_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/its_jhaanuj_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_jhaanuj_21" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/its_jhaanuj_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="its_jhaanuj_21" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/its_jhaanuj_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="its_jhaanuj_21" height="30" width="40" /></a>
 </p>
 
