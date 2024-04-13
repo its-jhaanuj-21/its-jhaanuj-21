@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/its_jhaanuj_21" target="blank"><img src="https://img.shields.io/twitter/follow/its_jhaanuj_21?logo=twitter&style=for-the-badge" alt="its_jhaanuj_21" /></a> </p>
 
+<img align="right" url="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"> 
+
 - 🌱 I’m currently learning **DataScience, WebDev, Java**
 
 - 📫 How to reach me **anujjha2106@gmail.com**
