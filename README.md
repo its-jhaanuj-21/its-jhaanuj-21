@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anuj Jha</h1>
 <h3 align="center">A passionate Learner from INDIA</h3>
 
-<p><img align="right" width="450" alt="coding" src="https://drive.google.com/file/d/1UclsfMQroGuX7GlnRN8fzTeIe3S4eyyT/view?usp=sharing" style="border-radius: 20px;"></p>
+<p><img align="right" width="450" alt="coding" src="https://drive.google.com/file/d/1UclsfMQroGuX7GlnRN8fzTeIe3S4eyyT/view?usp=sharing"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-jhaanuj-21&label=Profile%20views&color=0e75b6&style=flat" alt="its-jhaanuj-21" /> </p>
 
